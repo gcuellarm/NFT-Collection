@@ -8,7 +8,7 @@ Additionally, tests are included using Foundry to ensure the contract behaves as
 
 ## 🌐 Smart Contract Overview
 
-### 📚 BA-NFTCollection
+### 📚 BANFTCollection
 
 The `BANFTCollection` contract is an ERC721-compliant NFT collection with the following features:
 
